@@ -70,7 +70,7 @@ Menghentikan dan keluar dari program.
 - **Overriding**  
   Method tampilkanInfo() dioverride di setiap subclass untuk menampilkan label berbeda sesuai tipe nasabah.
 
-# Output Program
+# Output Program/Dokumentasi Program
 ## Menu Program
 
 <img width="345" height="228" alt="image" src="https://github.com/user-attachments/assets/d07e6d64-e02d-4c0a-abf2-5c8f99967316" />
