@@ -11,9 +11,9 @@ Sistem Informasi A'2024
 Program ini merupakan sebuah program sederhana CRUD dengan tema Manajemen Data Nasabah Bank Digital. Melalui menu konsol yang interaktif, pengguna dapat melakukan operasi data nasabah secara lengkap, mulai dari menambah (Create), melihat (Read), mengubah (Update), hingga menghapus (Delete) data. Selain itu, program ini juga dilengkapi dengan fitur transaksi dasar seperti setor tunai, tarik tunai, dan transfer dana antar rekening, sehingga dapat menjadi simulasi sederhana dalam pengelolaan dan manajemen data nasabah bank secara digital.
 
 # Alur Program
-Program ini berjalan dengan menampilkan delapan menu utama kepada pengguna. Opsi 1 sampai 4 digunakan untuk mengelola data dasar nasabah (tambah, lihat, ubah, hapus). Menu 5 membuka sub-menu untuk transaksi finansial, sementara menu 6 dan 7 berfungsi untuk melihat riwayat rekening dan mencari data nasabah. Program akan selalu kembali ke tampilan menu ini setelah setiap tugas selesai, hingga pengguna memilih menu 8 untuk keluar.
+Program ini berjalan dengan menampilkan sembilan menu utama kepada pengguna. Opsi 1 sampai 4 digunakan untuk mengelola data dasar nasabah (tambah, lihat, ubah, hapus). Menu 5 membuka sub-menu transaksi finansial, menu 6 dan 7 digunakan untuk melihat riwayat rekening dan mencari nasabah, menu 8 dipakai untuk memberikan bonus nasabah prioritas, dan menu 9 dipakai untuk keluar.
 
-Setiap input yang bukan merupakan angka 1–8 akan dianggap tidak valid, lalu program secara otomatis mengarahkan kembali pengguna ke menu utama.
+Setiap input yang bukan merupakan angka 1–9 akan dianggap tidak valid, lalu program secara otomatis mengarahkan kembali pengguna ke menu utama.
 
 ### Penjelasan Alur per Fitur
 1. Tambah Nasabah (Create)
